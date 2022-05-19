@@ -1,16 +1,7 @@
-# musixly
+#Musixly
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/63713194/169290723-546c8f3a-c0d4-4419-8608-877d1b86abaf.jpg" width=250 height=500>  <img src="https://user-images.githubusercontent.com/63713194/169290752-ed0a336e-357e-4ff5-9b3e-6f86c674ba82.jpg" width=250 height=500>  <img src="https://user-images.githubusercontent.com/63713194/169290770-133cfa03-df31-489a-95a7-3c90f6980a05.jpg" width=250 height=500>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
